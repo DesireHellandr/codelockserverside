@@ -1,0 +1,1 @@
+this addAction ["Console",{_this call LS_fnc_codelock},[160604, "test"],0,false,false,"",'(alive player) && !dialog && player distance _target < 3'];
